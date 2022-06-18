@@ -11,7 +11,7 @@
 | p | paste a line |
 | :f | display a filename |
 | /<string> | search a string | 
-  | /<string>\c | search a string and ignore case | 
+| /<string>\c | search a string and ignore case | 
 | n | go to next instance|
 | N | go to previous instance 
 | w | move forward one word|
@@ -118,4 +118,3 @@ Dont forget to activate Terminal preferences : "Use Option as Meta key"
 | brew update | Fetch latest version of homebrew and formula |
 | brew upgrade | Upgrade all brew packages |
 | brew list --cask | Homebrew Cask provides a friendly CLI workflow for the administration of macOS applications distributed as binaries |
-
