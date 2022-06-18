@@ -76,6 +76,7 @@ set shiftround
 
   
 # Mac OS terminal
+Dont forget to activate Terminal preferences : "Use Option as Meta key"
 | command | comments |
 | ------ | ------ | 
 | Ctrl-a | go to start of the line |
@@ -101,8 +102,13 @@ set shiftround
 | ------ | ------ |
 | $env:myvariable=”valeur” | set an env variable  |
 | dir env: | list all env variables  |
-| get-command | |  
-| Get-Help | |  
+| get-command | get list of commands ... |  
+| Get-Help |get help ... |  
+  
+ # sed
+| command | comments |
+| ------ | ------ |
+|  | | 
   
 
 # homebrew
