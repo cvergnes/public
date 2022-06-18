@@ -74,6 +74,16 @@ set shiftround
 | git branch -d localBranchName | delete branch locally |
 | git push origin --delete remoteBranchName | delete branch remotely |
 
+  
+# Mac OS terminal
+| command | comments |
+| ------ | ------ | 
+| Ctrl-a | go to start of the line |
+| Ctrl-e | go to the end of the line |
+| Alt-f | jump forward by a word |
+| Alt-b | jump backward by a word |
+| Ctrl-k | to kill the line starting from the cursor position |
+  
 # bash
 | command | comments |
 | ------ | ------ |
