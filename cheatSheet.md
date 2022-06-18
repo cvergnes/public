@@ -38,6 +38,8 @@
 | ) | go to beginning of sentence |
 | w | jump forward to the next word |
 | b | jump forward to the next word |
+| Ctrl-d | jump forward to the next word |
+| Ctrl-u | jump forward to the next word |
   
 # basic .vimrc file
 ```
