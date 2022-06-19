@@ -160,13 +160,20 @@ Scenario : you manage an IT team. In the past years, employees has left. You've 
 <details><summary>Chapter 4 : focus your audience attention</summary>
 
 ## A brief lesson on memory
-Short term mmory limit is 4 chunk of memory. Dont use too much legends or colors.  
+Short term memory limit is 4 chunks of memory. Dont use too much legends or colors.  
 Solution : label the datas directly, 
 
+## Preattentive attributes
+Preattentive attributes : attributes which make your audience to see informations without thinkinng about it  
+Useful because : 
+- draw audience's attention quickly
+- creating a visual hierarchy of info
 ![preattentive attributes](img/preattentive_attributes.png)
 
-
+Colors : Using same colors to draw attention for all graphs in same dashboard is a good practice. It prevents mental fatigue. And pay attention to person colorblind. 
 </details>
+
+<details><summary>chapter 5 : think like a designer</summary>
 
 
 </details>
