@@ -11,8 +11,8 @@
 | yy | copy a line |
 | p | paste a line |
 | :f | display a filename |
-| /<string> | search a string | 
-| /<string>\c | search a string and ignore case | 
+| /\<string\> | search a string | 
+| /\<string\>\c | search a string and ignore case | 
 | n | go to next instance|
 | N | go to previous instance 
 | w | move forward one word|
