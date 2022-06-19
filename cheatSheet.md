@@ -20,7 +20,7 @@
 | e | move to end of the word |
 | gg | go to top of file |
 | G | go to bottom of file | 
-| :<line number> | go to line number | 
+| :\<line number\> | go to line number | 
 | Ctrl-r | redo the last action |
 | 5. | repeating 5 times the last action | 
 | :syntax on | activate syntax colors |
