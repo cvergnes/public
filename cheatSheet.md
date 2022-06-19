@@ -1,5 +1,5 @@
 # vim
-(vim cheat Sheet)[https://vim.rtorr.com/]
+!(vim cheat Sheet)[https://vim.rtorr.com/]
 | key | comments |
 | ------ | ------ |
 | x | delete a character |
