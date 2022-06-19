@@ -28,7 +28,7 @@
 | A | add at end of line |
 | :%s/A/B/g | replace all A by B |
 | :%s/A/B/gc | replace all A by B with a confirmation prompt |
-| <line number>G | go to line |
+| \<line number\>G | go to line |
 | "*p | paste system clipboard |
 | "*y | copy in system clipboard |
 | "ay | copy in register a |
