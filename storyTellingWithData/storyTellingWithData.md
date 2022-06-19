@@ -2,27 +2,33 @@
 
 <details> 
 <summary>Introduction</summary>
-Pas d’éducation sur la data viz pourtant c’est une compétence clé pour transformer des données en aide à la décision
-Auteurs ont travaillé sur la partie Data dans les HR (projet oxygen) : Google veut être data même dans les HR. 
+Pas d’éducation sur la data viz pourtant c’est une compétence clé pour transformer des données en aide à la décision  
+Auteurs ont travaillé sur la partie Data dans les HR (projet oxygen) : Google veut être data même dans les HR.   
 Liens : [https://www.storytellingwithdata.com/books](https://www.storytellingwithdata.com/books)
 </details>
 
 <details>
 <summary>Chapter 1 : the importance of context</summary>
+
 # Exploratory vs explanatory testing
 **Exploratory** phase : figure out what is interesting in datas - like hunting pers in oysters
 **Explanatory** space : communication of the analysis
 Exploratory space shouldn’t be shown. This book focus only on **explanatory**
+
 # Who
 Your audience : try to narrow your target audience to have better efficiency
 Your relationship with the audience : do they trust you as an expert ?
+
 # What
 What you want your audience to know ? 
 Even if you recommend or prompt the wrong thing, it prompts the conversation focused on action. 
+
 # How
 Communication couldn’t be the same between audience.
+
 # Questions to ask for context
 Deliverable you’re creating is at the request of someone else.
+
 - What background info is relevant ?
 - What is the target audience ?
 - What biases does our audience make them supportive or resistant ?
@@ -31,6 +37,7 @@ Deliverable you’re creating is at the request of someone else.
 - What a successfult outcome look like ?
 - If you have a single sentence to tell your audience, what should you say  ?
 - 3 minute story & big idea
+
 Summarize the most important message in less than 3 minutes : help when meeting with your boss or any situation shorter. 
 Big idea : summarize in one single sentence
 </details>
@@ -53,8 +60,8 @@ Simple text : when you have 1 or 2 numbers use a simple text
 Well designed graphs get the info across more quickly than a well-designed table
 
 ### Points
-        Scatterplots useful for showing relationship between 2 things. Most used in scientific area. 
-        ![Untitled](img/Untitled%201.png)
+Scatterplots useful for showing relationship between 2 things. Most used in scientific area. 
+![Untitled](img/Untitled%201.png)
 
 ### Lines
 
@@ -92,21 +99,21 @@ Could represent percentage or absolute value (but be sure to include also absolu
 - Pull apart pieces of a stacked bar chart
 - Show a starting point, increase, decrease and resulting end point
 Could be reproduced by a stacked vertical bar chart with a not visible first serie
-![Screenshot_20220602_075945.jpg](img/Screenshot_20220602_075945.jpg)
+![Screenshot- 20220602 075945.jpg](img/Screenshot_20220602_075945.jpg)
 ##### Horizontal bar chart
 Most simple go-to graph.
 Easy to read :
 - If category names are long
 - Fit to the way we process info, from left to right
-![Screenshot_20220602_081551.jpg](img/Screenshot_20220602_081551.jpg)
+![Screenshot 20220602 081551.jpg](img/Screenshot_20220602_081551.jpg)
 - Area
 Avoid in general area graph, a humans, don't evaluate well areas but could useful when need to compare values of different magnitudes…
-![Screenshot_20220613_075350.jpg](img/Screenshot_20220613_075350.jpg)
+![Screenshot 20220613 075350.jpg](img/Screenshot_20220613_075350.jpg)
 
 ### Pie charts and 3d are evils
 People aren’t good to evaluate angle and area, pie charts should be replaced by vertical pie chart. 
 Donuts are also evil, people have to compare arc values. 
-![Screenshot_20220613_081558.jpg](img/Screenshot_20220613_081558.jpg)
+![Screenshot 20220613 081558.jpg](img/Screenshot_20220613_081558.jpg)
 Best is bar chart, ordered from greatest to least (or ordering of categoryif it has a sense). 
 ### Usage of multi series graph
 Don’t use it : it takes too much time to be read
@@ -114,7 +121,7 @@ Strategy :
 - Label the data points
 - Split the graph
 - Use color (same for axis and data points) but color could be used in a more useful manner
-![Screenshot_20220615_075512.jpg](img/Screenshot_20220615_075512.jpg)
+![Screenshot 20220615 075512.jpg](img/Screenshot_20220615_075512.jpg)
 When you display two datasets on same axis, you imply a relationship between the twos. 
 </details>            
 
@@ -129,9 +136,39 @@ In his book The Visual Display of Quantitative Information, Edward Tufte refers 
 # Clutter
 Element that take space but don't increase understanding
 
-# Gestalt principles of visual perception
-- Proximity : people see elements which are close as a group
-- Similarity : Objects of similar color, shape, size or orientation are perceived as related or belonging to part of a group.
+## Gestalt principles of visual perception
+- proximity : people see elements which are close as a group
+- similarity : Objects of similar color, shape, size or orientation are perceived as related or belonging to part of a group.
+- enclosure : draw a visual distinction
+![actual-forecast](img/actual_forecast.png)
+- closure: people like things to fit in the constructs already in our head
+- continuity : our eyes sees naturally create continuity. Example : we could remove Y axis
+- connection : we see datas as groups when they're connected by a line (more stronger association than color) : example : line chart
+## lack of visual order
+- text left or right aligned. Text center aligned do not create clean lines
+Without visual cues, user will start at upper left and their eyes will do a 'z'. 
+No white space is like a presenter which doesn't do any pause.
+## good use of contrast
+If something very important, we want our audience to see, we should make that one thing very different from the rest.
+![good use of contrast](img/good_use_of_contrast.png)
+
+## decluttering step by step
+Scenario : you manage an IT team. In the past years, employees has left. You've heard more and more complaints.
+![before after](img/before_after.png)
+</details>
+
+<details><summary>Chapter 4 : focus your audience attention</summary>
+
+## A brief lesson on memory
+Short term mmory limit is 4 chunk of memory. Dont use too much legends or colors.  
+Solution : label the datas directly, 
+
+![preattentive attributes](img/preattentive_attributes.png)
+
+
+</details>
+
+
 </details>
 
 
