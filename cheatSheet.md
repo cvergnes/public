@@ -73,7 +73,7 @@ set shiftround
 | git log -p -2 | last 2 commit with diff |
 | git diff | modifications since my last commit |
 | git checkout — file | discard changes |
-| git reset commitHash| seet head to commitHash -> allow to merge several commits into one |
+| git reset commitHash| set head to commitHash -> allow to merge several commits into one |
 | git branch -d localBranchName | delete branch locally |
 | git push origin --delete remoteBranchName | delete branch remotely |
 
