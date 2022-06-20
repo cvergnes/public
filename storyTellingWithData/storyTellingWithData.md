@@ -174,7 +174,7 @@ Colors : Using same colors to draw attention for all graphs in same dashboard is
 </details>
 
 <details><summary>chapter 5 : think like a designer</summary>
-
+## Affordance
 
 </details>
 
