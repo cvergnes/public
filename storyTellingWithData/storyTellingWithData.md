@@ -191,6 +191,10 @@ Good design : there's only one way to use it.
 ## eliminate distractions
 
 Decision of what to cut is more important than what to add
+- not all data's are equally important
+- when detail isn't needed summarize
+- would delete this will change anything ?
+- push necessary but non message impacting in the background : in light gray for example
 
 
 </details>
