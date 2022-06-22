@@ -178,6 +178,21 @@ Colors : Using same colors to draw attention for all graphs in same dashboard is
 
 # Affordance
 
+Good design : there's only one way to use it.
+
+## highlight important stuff
+
+- use bold but not italics or underline
+- use uppercase for label, title or keywords
+- colours : to be used sparingly
+- use different size
+- always use same font
+
+## eliminate distractions
+
+Decision of what to cut is more important than what to add
+
+
 </details>
 
 
