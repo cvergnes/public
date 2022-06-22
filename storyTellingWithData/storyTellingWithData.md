@@ -2,7 +2,7 @@
 
 <details> 
 <summary>Introduction</summary>
-Pas d’éducation sur la data viz pourtant c’est une compétence clé pour transformer des données en aide à la décision  
+Pas d’éducation sur la data viz pourtant c’est une compétence clé pour transformer des données en aide à la décision   
 Auteurs ont travaillé sur la partie Data dans les HR (projet oxygen) : Google veut être data même dans les HR.   
 Liens : [https://www.storytellingwithdata.com/books](https://www.storytellingwithdata.com/books)
 </details>
@@ -11,23 +11,23 @@ Liens : [https://www.storytellingwithdata.com/books](https://www.storytellingwit
 <summary>Chapter 1 : the importance of context</summary>
 
 # Exploratory vs explanatory testing
-**Exploratory** phase : figure out what is interesting in datas - like hunting pers in oysters
-**Explanatory** space : communication of the analysis
-Exploratory space shouldn’t be shown. This book focus only on **explanatory**
+**Exploratory** phase : figure out what is interesting in datas - like hunting pers in oysters  
+**Explanatory** space : communication of the analysis  
+Exploratory space shouldn’t be shown. This book focus only on **explanatory**  
 
 # Who
-Your audience : try to narrow your target audience to have better efficiency
-Your relationship with the audience : do they trust you as an expert ?
+Your audience : try to narrow your target audience to have better efficiency  
+Your relationship with the audience : do they trust you as an expert ?  
 
 # What
-What you want your audience to know ? 
-Even if you recommend or prompt the wrong thing, it prompts the conversation focused on action. 
+What you want your audience to know ?  
+Even if you recommend or prompt the wrong thing, it prompts the conversation focused on action.  
 
 # How
-Communication couldn’t be the same between audience.
+Communication couldn’t be the same between audience.  
 
 # Questions to ask for context
-Deliverable you’re creating is at the request of someone else.
+Deliverable you’re creating is at the request of someone else.  
 
 - What background info is relevant ?
 - What is the target audience ?
@@ -38,8 +38,8 @@ Deliverable you’re creating is at the request of someone else.
 - If you have a single sentence to tell your audience, what should you say  ?
 - 3 minute story & big idea
 
-Summarize the most important message in less than 3 minutes : help when meeting with your boss or any situation shorter. 
-Big idea : summarize in one single sentence
+Summarize the most important message in less than 3 minutes : help when meeting with your boss or any situation shorter.   
+Big idea : summarize in one single sentence  
 </details>
 
 <details>
@@ -53,7 +53,7 @@ Simple text : when you have 1 or 2 numbers use a simple text
 ## Table
 - if you need to communicate multiple different units of measure it’s easier with a table.
 - using a table in a live presentation isn’t a good idea : as audience reads it, you lose their ears.
-- use light or no borders to focus attention on data
+- use light or no borders to focus attention on data  
 - heatmap : use color saturation to provide visual cues of potential point of interests
 
 ##Graphs
@@ -129,10 +129,10 @@ When you display two datasets on same axis, you imply a relationship between the
 <details>
 <summary> Chapter 3 : clutter is your enemy</summary>
 # Cognitive load
-Cognitive load : mental effort required to learn new information
-Every element take cognitive load, so it should bring max cognitive value. 
-Example slides over complicated, you decide not to read them. 
-In his book The Visual Display of Quantitative Information, Edward Tufte refers to maximizing the data-ink ratio, saying “the larger the share of a graphic’s ink devoted to data, the better (other relevant matters being equal).”
+Cognitive load : mental effort required to learn new information  
+Every element take cognitive load, so it should bring max cognitive value.   
+Example slides over complicated, you decide not to read them.   
+In his book The Visual Display of Quantitative Information, Edward Tufte refers to maximizing the data-ink ratio, saying “the larger the share of a graphic’s ink devoted to data, the better (other relevant matters being equal).”  
 # Clutter
 Element that take space but don't increase understanding
 
@@ -153,15 +153,15 @@ If something very important, we want our audience to see, we should make that on
 ![good use of contrast](img/good_use_of_contrast.png)
 
 ## decluttering step by step
-Scenario : you manage an IT team. In the past years, employees has left. You've heard more and more complaints.
+Scenario : you manage an IT team. In the past years, employees has left. You've heard more and more complaints.  
 ![before after](img/before_after.png)
 </details>
 
 <details><summary>Chapter 4 : focus your audience attention</summary>
 
 ## A brief lesson on memory
-Short term memory limit is 4 chunks of memory. Dont use too much legends or colors.  
-Solution : label the datas directly, 
+Short term memory limit is 4 chunks of memory. Dont use too much legends or colors.   
+Solution : label the datas directly,   
 
 ## Preattentive attributes
 Preattentive attributes : attributes which make your audience to see informations without thinkinng about it  
@@ -178,25 +178,24 @@ Colors : Using same colors to draw attention for all graphs in same dashboard is
 
 # Affordance
 
-Good design : there's only one way to use it.
+## Highlight important stuff
+Recommended to have 10% max pf the design to be highlighted   
+Guidelines for highlight : 
+- use bold. Do not use italics or underlining (not enough visbility)
+- avoid diffeerent fonts
+- use color sparingly. And genrally in concert with bold
+- use size to highlight
 
-## highlight important stuff
+## Eliminate distractions
+- ask yourself, would eliminating this change anything ?
+- push non impacting message in the backgound : use light grey
 
-- use bold but not italics or underline
-- use uppercase for label, title or keywords
-- colours : to be used sparingly
-- use different size
-- always use same font
+Example : use line chart to see trend over time  
 
-## eliminate distractions
+![marriage rate](img/marriage_rate.png)
 
-Decision of what to cut is more important than what to add
-- not all data's are equally important
-- when detail isn't needed summarize
-- would delete this will change anything ?
-- push necessary but non message impacting in the background : in light gray for example
+## Clear visual hierarchy of info
 
-## create a visual hierarchy of information
 
 
 </details>
