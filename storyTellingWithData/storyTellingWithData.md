@@ -196,6 +196,8 @@ Decision of what to cut is more important than what to add
 - would delete this will change anything ?
 - push necessary but non message impacting in the background : in light gray for example
 
+## create a visual hierarchy of information
+
 
 </details>
 
