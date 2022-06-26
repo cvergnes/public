@@ -11,21 +11,21 @@ L'idée n'est pas d'aller tout le temps lentement. Mais plutôt d'aller vite qua
     
 # Chapitre 1 : toujours plus
     
- Mesure du temps a permis définir calendrier pour cultures agricole. Mais dès que le temps a défini le temps de manière plus fine, le temps a cessé de servir l'homme, c'est l'homme qui a été asservi au temps. 
+Mesure du temps a permis définir calendrier pour cultures agricole. Mais dès que le temps a défini le temps de manière plus fine, le temps a cessé de servir l'homme, c'est l'homme qui a été asservi au temps. 
     
- Taylor est à l'origine de l'idée que le système est plus important que l'homme.
+Taylor est à l'origine de l'idée que le système est plus important que l'homme.
     
- Obsession de la vitesse nous aide à éviter de nous confronter à notre insatisfaction ou notre peur de mourir. Personnage intéressant : Satish Kumar, ex Moine Jain qui a marché de l'Inde jusqu'en Angleterre.
+Obsession de la vitesse nous aide à éviter de nous confronter à notre insatisfaction ou notre peur de mourir. Personnage intéressant : Satish Kumar, ex Moine Jain qui a marché de l'Inde jusqu'en Angleterre.
     
- Vitesse entraîne libération d'hormones identiques à celles produit pendant rapport sexuel.
+Vitesse entraîne libération d'hormones identiques à celles produit pendant rapport sexuel.
     
- ## Chapitre 2 : vive la lenteur
+## Chapitre 2 : vive la lenteur
     
-    Liste toutes les associations qui essaient de promouvoir la lenteur en Autriche, Japon, etc . Militant japonais Keibo Owa. Certaines personnes sont désormais prêtes à troquer du pouvoir d'achat contre du temps et du calme.
+Liste toutes les associations qui essaient de promouvoir la lenteur en Autriche, Japon, etc . Militant japonais Keibo Owa. Certaines personnes sont désormais prêtes à troquer du pouvoir d'achat contre du temps et du calme.
     
 ## Chapitre 3 : le temps contre le goût
     
- Slow food : lenteur, manger local et à petite échelle (pas industriel). Procédés industriels neutralisent une grande partie des saveurs. Temps doit être accordé pour préparer le dîner et le manger (pas en regardant la télé en même temps par exemple). Objectif devrait être de manger un plat maison à chaque repas, tout en discutant avec ses convives. 
+Slow food : lenteur, manger local et à petite échelle (pas industriel). Procédés industriels neutralisent une grande partie des saveurs. Temps doit être accordé pour préparer le dîner et le manger (pas en regardant la télé en même temps par exemple). Objectif devrait être de manger un plat maison à chaque repas, tout en discutant avec ses convives. 
     
 ## Chapitre 4 : la ville entre tradition et modernité
     
