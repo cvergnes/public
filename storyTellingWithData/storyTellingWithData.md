@@ -196,6 +196,7 @@ Example : use line chart to see trend over time
 
 ## Clear visual hierarchy of info
 
+Pull some items to the forefront to indicate order they should process the information. 
 
 
 </details>
