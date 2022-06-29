@@ -207,10 +207,20 @@ Don't overcomplicate : the more complicate it looks, the more time the audience 
 General rules : every chart must have a title and every axis must have a label
 
 Example : choose wisely your slide title, don't use the same on different slides. If you have a recommendation, put it here.
-![annotations](img/annotations.jpg)
+
 
 ###  Annotations
 
 Use annotations 
+![annotations](img/annotations.jpg)
+
+### aesthetics
+People are more willing to be patient when data Viz is pleasant
+
+- use colours sparingly
+- use alignm
+- use white space
+ent 
+- 
 
 </details>
