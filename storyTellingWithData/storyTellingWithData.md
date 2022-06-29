@@ -204,10 +204,8 @@ Design should be accessible by people with different abilities or technical skil
 
 Don't overcomplicate : the more complicate it looks, the more time the audience will take they perceive it, and the less likely they are to spend time to understand it
 
+General rules : every chart must have a title and every axis must have a label
 
-
+Example : choose wisely your slide title, don't use the same on different slides
 
 </details>
-
-
-
