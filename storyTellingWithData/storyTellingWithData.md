@@ -198,6 +198,14 @@ Example : use line chart to see trend over time
 
 Pull some items to the forefront to indicate order they should process the information. 
 
+## accessibility
+
+Design should be accessible by people with different abilities or technical skills
+
+Don't overcomplicate : the more complicate it looks, the more time the audience will take they perceive it, and the less likely they are to spend time to understand it
+
+
+
 
 </details>
 
