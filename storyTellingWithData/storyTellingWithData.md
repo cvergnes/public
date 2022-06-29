@@ -206,6 +206,11 @@ Don't overcomplicate : the more complicate it looks, the more time the audience 
 
 General rules : every chart must have a title and every axis must have a label
 
-Example : choose wisely your slide title, don't use the same on different slides
+Example : choose wisely your slide title, don't use the same on different slides. If you have a recommendation, put it here.
+![annotations](img/annotations.jpeg)
+
+###  Annotations
+
+Use annotations 
 
 </details>
