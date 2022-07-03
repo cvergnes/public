@@ -1,6 +1,6 @@
 # dev front resources
 
-[Your Career in Web Development Starts Here](https://www.theodinproject.com/)
+[Odin project](https://www.theodinproject.com/)
 
 Book algo design manual + leet code
 
@@ -24,3 +24,5 @@ Typescript
 [#100DaysOfCode](https://www.100daysofcode.com/)
 
 [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript
+
+[JS design patterns](https://www.patterns.dev/posts/introduction/)
