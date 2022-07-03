@@ -1,5 +1,0 @@
-# HEART Framework
-
----
-
-Coming soon!

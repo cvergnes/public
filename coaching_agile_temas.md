@@ -4,7 +4,7 @@ Par Lyssa Adkins
 
 # Partie 1 : cela commence avec vous
 
-- Chapitre 1 : est-ce que je serai un bon coach ?
+## Chapitre 1 : est-ce que je serai un bon coach ?
     
     Pour passer de chef de projet à Scrum master, il est important de changer de mindset. Chef de projet contrôle et supervise, un coach conseille. 
     
@@ -29,7 +29,7 @@ Par Lyssa Adkins
         - Pas de tolérance pour les raisons qui font que l'orga empêche les gens d'atteindre l'excellence : "c'est une perte de temps mais on a toujours fait comme cela..."
         - Penser que le déséquilibre est essentiel. Le désordre est productif
         - Prendre le risque d'avoir tort
-- Chapitre 2 : expect high performance
+## Chapitre 2 : expect high performance
     
     "High performance tree" ou "fondations agile" de Tobias Mayer à mettre sur board physique de l'équipe pour rappeler à l'équipe les fondements d'une équipe performante. Quand ils ont des soucis, ils peuvent chercher s'il n'est pas en rapport avec une faiblesse sur une des racines
     
@@ -37,7 +37,7 @@ Par Lyssa Adkins
     
     ![Untitled%209.png](Untitled%209.png)
     
-- Chapitre 3 : master yourself
+## Chapitre 3 : master yourself
     
     Sans les points ci-dessous, l'équipe sera moins auto organisé et moins auto controlé
     
@@ -120,7 +120,7 @@ Par Lyssa Adkins
         
         Soyez un modèle pour eux : NVC, présence et conscience de leur réaction au conflit
         
-- Chapitre 4 : let your style change
+## Chapitre 4 : let your style change
     
     Agile team stages : Shu: Follow the rule. Ha: Break the rule. Ri: Be the rule
     
@@ -140,7 +140,7 @@ Par Lyssa Adkins
 
 # Partie 2 : Aider l'équipe
 
-- Chapitre 5 : coacher comme un coach-mentor
+## Chapitre 5 : coacher comme un coach-mentor
     - Coaching agile ?
         
         **Monde du coaching de vie s'applique au monde du coaching agile**. Dans ce monde le coaching se fait par le biais de conversations où le coaché va découvrir de nouvelles possibilités ou perspectives. Dans le contexte de l'agile, le coaching mélange coaching et mentoring : coach aide à atteindre le prochain objectif du coachée (coaching), mais aussi partage ses idées ou ses expériences agile (mentoring). Autre différence vs coach de vie : coach agile ne se laisse pas guider par les objectifs du coaché. **L'objectif du coach agile est d'influencer le coaché pour utiliser l'agile de la bonne façon.**
