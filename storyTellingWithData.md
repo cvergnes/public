@@ -196,9 +196,31 @@ Example : use line chart to see trend over time
 
 ## Clear visual hierarchy of info
 
+Pull some items to the forefront to indicate order they should process the information. 
 
+## accessibility
+
+Design should be accessible by people with different abilities or technical skills
+
+Don't overcomplicate : the more complicate it looks, the more time the audience will take they perceive it, and the less likely they are to spend time to understand it
+
+General rules : every chart must have a title and every axis must have a label
+
+Example : choose wisely your slide title, don't use the same on different slides. If you have a recommendation, put it here.
+
+
+###  Annotations
+
+Use annotations 
+![annotations](img/annotations.jpg)
+
+### aesthetics
+People are more willing to be patient when data Viz is pleasant
+
+- use colours sparingly
+- use alignm
+- use white space
+ent 
+- 
 
 </details>
-
-
-
