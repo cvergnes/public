@@ -1,0 +1,10 @@
+﻿TEAM,PROMPT,Y/N,ACTION (if yes)
+Analytics,Do you need additional tracking?,,Work with [person] on logging
+Sales,Do you need sales enablement materials?,,Work with [person]
+Marketing,Does this impact shared KPI?,,Work with [person] on goal adjustment
+Customer Success,Do you need to update support content or training?,,Work with [person] on updates
+Product Marketing,"Do you need a GTM plan? (e.g. pricing, packaging, positioning,",,Work with [person] with at least [x] weeks notice to kickoff workstreams
+Partners,Will this impact any external partners?,,Work with [person] on communication plan
+Globalization,Are you launching in multiple countries?,,Work with [person]
+Risk,Does this expose a risk vector?,,Work with [person]
+Legal,Are there potential legal ramifications?,,Work with [person]

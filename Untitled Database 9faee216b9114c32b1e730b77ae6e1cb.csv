@@ -1,0 +1,5 @@
+﻿TARGET DATE,MILESTONE,DESCRIPTION,EXIT CRITERIA
+YYYY-MM-DD,✅ Pilot,Internal testing with employees only,No P0 or P1 bugs on a rolling 7-day basis
+YYYY-MM-DD,🛑 Beta,Early cohort of 20 customers,At least 10 customers would be disappointed if we took it away
+YYYY-MM-DD,🛑 Early Access,Invite-only customers from sales,At least 1 win from every major competitor
+YYYY-MM-DD,🛑 Launch,All customers in current markets,Measure and monitor
