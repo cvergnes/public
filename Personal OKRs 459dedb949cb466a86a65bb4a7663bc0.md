@@ -1,5 +1,0 @@
-# Personal OKRs
-
----
-
-Coming soon!
