@@ -1,11 +1,9 @@
 # Storytelling with data by Cole Nussbaumer Knaflic
 
-<details> 
-<summary>Introduction</summary>
+# Introduction
 Pas d’éducation sur la data viz pourtant c’est une compétence clé pour transformer des données en aide à la décision   
 Auteurs ont travaillé sur la partie Data dans les HR (projet oxygen) : Google veut être data même dans les HR.   
 Liens : [https://www.storytellingwithdata.com/books](https://www.storytellingwithdata.com/books)
-</details>
 
 # Chapter 1 : the importance of context
 
