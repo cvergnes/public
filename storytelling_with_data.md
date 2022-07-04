@@ -212,7 +212,7 @@ People are more willing to be patient when data Viz is pleasant
 - use alignnement
 - use white space
 
-
+![unaesthetic design](IMG/unaesthetic_design.jpg)
 
 
 </details>
