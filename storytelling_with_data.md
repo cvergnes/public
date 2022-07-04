@@ -43,7 +43,7 @@ Author use only a dozen of different types of visuals :
 
 ## Simple text
 Simple text : when you have 1 or 2 numbers use a simple text 
-![Untitled](img/Untitled.png)
+![simple text](img/simple_text.png)
 
 ## Table
 - if you need to communicate multiple different units of measure it’s easier with a table.
@@ -56,14 +56,14 @@ Well designed graphs get the info across more quickly than a well-designed table
 
 ### Points
 Scatterplots useful for showing relationship between 2 things. Most used in scientific area. 
-![Untitled](img/Untitled%201.png)
+![Scatter plot](img/scatter_plot.png)
 
 ### Lines
 
 #### Line graphs
 Line graphs are used to display continuous data. Make no sense for categorical datas. You could have :
 - several series
-- Display min, max and avg
+- display min, max and avg
 
 #### Slopegraph
 Slopegraphs can be useful when you have two time periods or points of comparison and want to quickly show relative increases and decreases or differences across various categories between the two data points.  
@@ -96,7 +96,7 @@ You can only compare the bottom serie (the one attached to the X axis)
 - Pull apart pieces of a stacked bar chart
 - Show a starting point, increase, decrease and resulting end point
 Could be reproduced by a stacked vertical bar chart with a not visible first serie
-![Screenshot- 20220602 075945.jpg](img/Screenshot_20220602_075945.jpg)
+![waterfall chart](img/waterfall_chart.jpg)
 ##### Horizontal bar chart
 Most simple go-to graph.
 Easy to read :
@@ -120,12 +120,10 @@ Strategy :
 - Use color (same for axis and data points) but color could be used in a more useful manner
 ![Screenshot 20220615 075512.jpg](img/Screenshot_20220615_075512.jpg)
 When you display two datasets on same axis, you imply a relationship between the twos. 
-</details>            
-
 
 # Chapter 3 : clutter is your enemy
 ## Cognitive load
-Cognitive load : mental effort required to learn new information  
+Cognitive load : mental effort required to learn new information   
 Every element take cognitive load, so it should bring max cognitive value.   
 Example slides over complicated, you decide not to read them.   
 In his book The Visual Display of Quantitative Information, Edward Tufte refers to maximizing the data-ink ratio, saying “the larger the share of a graphic’s ink devoted to data, the better (other relevant matters being equal).”  
