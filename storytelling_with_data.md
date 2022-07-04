@@ -1,4 +1,4 @@
-# Storytelling with data by Cole Nussbaumer Knaflic
+De# Storytelling with data by Cole Nussbaumer Knaflic
 
 <details> 
 <summary>Introduction</summary>
@@ -212,7 +212,7 @@ People are more willing to be patient when data Viz is pleasant
 - use alignnement
 - use white space
 
-![unaesthetic design](IMG/unaesthetic_design.jpg)
+![unaesthetic design](img/unaesthetic_design.jpg)
 
 
 </details>
