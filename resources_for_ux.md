@@ -23,3 +23,5 @@ The design of everyday things
 Don’t make me think
 
 [Laws of UX: Using Psychology to Design Better Products & Services](https://www.amazon.com/Laws-UX-Psychology-Products-Services-ebook/dp/B087F24RJB/ref=sr_1_1?crid=1UB36HWB64DAH&keywords=laws+of+ux&qid=1651155427&s=digital-text&sprefix=laws+of+ux%2Cdigital-text%2C132&sr=1-1)
+
+[Universal principles of design](https://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=mp_s_a_1_1?crid=1DKSDVGFE42MS&keywords=universal+principles+of+design%2C+revised+and+updated&qid=1656913685&sprefix=universal+principle+of+des%2Caps%2C201&sr=8-1
