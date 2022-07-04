@@ -1,4 +1,4 @@
-De# Storytelling with data by Cole Nussbaumer Knaflic
+# Storytelling with data by Cole Nussbaumer Knaflic
 
 <details> 
 <summary>Introduction</summary>
