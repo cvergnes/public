@@ -214,5 +214,12 @@ People are more willing to be patient when data Viz is pleasant
 
 ![unaesthetic design](img/unaesthetic_design.jpg)
 
+# acceptance
 
+People wouldn't accept easily your new design because of 
+they used to see the old design (people feel discomfort with change)
+-articulate difference between new and old approach
+- show side by side to demonstrate the differences
+- provide multiple options and seek input
+- ask feedback on on one by your more vocal member
 </details>
