@@ -1,4 +1,4 @@
-Il# Storytelling with data by Cole Nussbaumer Knaflic
+# Storytelling with data by Cole Nussbaumer Knaflic
 
 # Introduction
 Pas d’éducation sur la data viz pourtant c’est une compétence clé pour transformer des données en aide à la décision   
