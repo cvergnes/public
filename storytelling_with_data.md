@@ -215,5 +215,6 @@ People wouldn't accept easily your new design because they used to see the old d
 - ask feedback on on one by your more vocal member
 
 # Chapter 6 : model visuals
-
+![model 1](img/model1.jpg)  
+![model 2](img/model2.jpg)  
 
