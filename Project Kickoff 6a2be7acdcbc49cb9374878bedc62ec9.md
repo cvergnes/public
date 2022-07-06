@@ -1,5 +1,0 @@
-# Project Kickoff
-
----
-
-Coming soon!
