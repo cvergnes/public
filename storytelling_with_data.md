@@ -1,4 +1,4 @@
-# Storytelling with data by Cole Nussbaumer Knaflic
+Il# Storytelling with data by Cole Nussbaumer Knaflic
 
 # Introduction
 Pas d’éducation sur la data viz pourtant c’est une compétence clé pour transformer des données en aide à la décision   
@@ -217,4 +217,8 @@ People wouldn't accept easily your new design because they used to see the old d
 # Chapter 6 : model visuals
 ![model 1](img/model1.jpg)  
 ![model 2](img/model2.jpg)  
+
+# chapter 7
+
+A good story grab your attention and is easy to remember 
 
