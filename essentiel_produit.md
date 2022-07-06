@@ -8,7 +8,6 @@
     
     Exemple de questions (story based interview) parlez-moi de la dernière fois que vous avez utilisé le service (ou 1 type de service) et dans telle ou telle situation.
     
-    ![Untitled](Untitled.png)
     
 - Organisation PM
     - 2 PMs par équipe - Meilleurs agents
@@ -25,7 +24,6 @@
         
 - OST
     
-    ![Untitled](Untitled%201.png)
     
 - Avoid **“whether or not” decisions** by replacing to “which of these opportunity should we build ?”
 - Metrics

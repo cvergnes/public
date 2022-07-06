@@ -45,10 +45,6 @@ Si on dit oui ou non, on doit toujours dire pourquoi.
 
 Eléments de langage : "Êtes-vous prêt à sacrifier cette feature qui a telle valeur pour telle autre feature qui vaut y ?”
 
-# Leadership
-
-![Untitled%206.png](Untitled%206.png)
-
 # Product manager Vs PO
 
 C'est le même role. Sauf dans les cas a l'échelle.

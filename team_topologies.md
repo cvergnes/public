@@ -167,15 +167,8 @@
             
         - What to consider when choosing a methodology ?
             
-            ![Untitled](Untitled%2018.png)
             
             “Low maturity organizations will need time to acquire the engineering and product development capabilities required for autonomous end-to-end teams. Meanwhile, more specialized teams (development, operations, security, and others) are an acceptable trade-off, as long as they collaborate closely to minimize wait times and quickly address issues. For a moderate scale of organization or software, patterns that emphasize close collaboration between teams at speed work well. As the size of the organization or software scale increases, focusing on providing the underlying infrastructure or platform as a service brings important benefits in terms of user-facing service reliability and the ability to meet customer expectations. If the organization has a high level of engineering maturity and discipline, then the SRE model described earlier may be effective at scale as well.
-            ”
-            
-            Excerpt From
-            Team Topologies: Organizing Business and Technology Teams for Fast Flow
-            Matthew Skelton
-            This material may be protected by copyright.
             
         - Dépendances et temps d’attente entre équipes
             
@@ -368,7 +361,6 @@
             
             Formalizing team interactions helps defining interfaces between teams; in turn, it is expected (from Conway’s law) that these interfaces will be reflected in the software systems being built.
             
-            ![Untitled](Untitled%2019.png)
             
         - Collaboration
             
@@ -392,7 +384,6 @@
             
         - Team interaction modes
             
-            ![Untitled](Untitled%2020.png)
             
     - Chapter 8 : evolve team structure with orga sensing
         - Collaboration is expensive

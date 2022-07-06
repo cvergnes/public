@@ -10,7 +10,6 @@
         
         Roadmap pour prioriser + prédire quand les choses sont prêtes.
         
-        ![Untitled%204.png](Untitled%204.png)
         
         Les 10 problèmes de cette approche: 
         

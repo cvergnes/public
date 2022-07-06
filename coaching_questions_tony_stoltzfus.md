@@ -28,9 +28,6 @@
                 
     - Coaching funnel (entonnoir)
         
-        
-        ![Untitled%2010.png](Untitled%2010.png)
-        
         Donne plus de temps à l'exploration quand dans le modèle GROW
         
         - step 1 : goal. Objectif en une phrase au format SMART

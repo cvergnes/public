@@ -25,4 +25,3 @@ Role du leader : encourager équipe à être premier mécanisme d'accountability
 Focus sur autre chose que sur résultats de l'équipe : statut de l'équipe ou statut individuel  
 Outils : déclaration public de résultats futurs, récompenses basés sur résultats.   
 Leader : il doit prendre le lead et montrer qu'il valorise les résultats  
-![5 dysfunctions of a team](src/5_dysfunctions_of_a_team.png)  

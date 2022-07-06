@@ -55,7 +55,6 @@
     - On resoud les problèmes ensemble
     - On crée des choses
     
-    ![Untitled](Untitled%202.png)
     
     Bénéfices pour l’orrganisation : 
     
@@ -78,7 +77,6 @@
     
     [https://www.slideshare.net/AgileEnSeine/lagilit-nest-pas-une-mthode-cest-un-besoin-keynote-agile-en-seine-2021-de-ccile-roche](https://www.slideshare.net/AgileEnSeine/lagilit-nest-pas-une-mthode-cest-un-besoin-keynote-agile-en-seine-2021-de-ccile-roche)
     
-    ![Untitled](Untitled%203.png)
     
 - 2020 - Choisissez vos modèles mentaux - Sylvie RABIE
     
