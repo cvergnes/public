@@ -116,8 +116,8 @@ Don’t use it : it takes too much time to be read
 Strategy :
 - Label the data points
 - Split the graph
+![split the graph](img/split_graph.jpg)
 - Use color (same for axis and data points) but color could be used in a more useful manner
-![Screenshot 20220615 075512.jpg](img/Screenshot_20220615_075512.jpg)
 When you display two datasets on same axis, you imply a relationship between the twos. 
 
 # Chapter 3 : clutter is your enemy
