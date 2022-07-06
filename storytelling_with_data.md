@@ -8,7 +8,7 @@ Liens : [https://www.storytellingwithdata.com/books](https://www.storytellingwit
 # Chapter 1 : the importance of context
 
 ## Exploratory vs explanatory testing
-**Exploratory** phase : figure out what is interesting in datas - like hunting perls in oysters  
+**Exploratory** phase : figure out what is interesting in datas - like hunting pers in oysters  
 **Explanatory** space : communication of the analysis  
 Exploratory space shouldn’t be shown. This book focus only on **explanatory**  
 
@@ -56,7 +56,7 @@ Well designed graphs get the info across more quickly than a well-designed table
 
 ### Points
 Scatterplots useful for showing relationship between 2 things. Most used in scientific area. 
-![Scatter plot](img/scatter_plot.jpg)
+![Scatter plot](img/scatter_plot.png)
 
 ### Lines
 
@@ -96,13 +96,12 @@ You can only compare the bottom serie (the one attached to the X axis)
 - Pull apart pieces of a stacked bar chart
 - Show a starting point, increase, decrease and resulting end point
 Could be reproduced by a stacked vertical bar chart with a not visible first serie
-![waterfall chart](img/waterfall_chart.jpg)
+![waterfall chart](img/waterfall_chart.png)
 ##### Horizontal bar chart
 Most simple go-to graph.
 Easy to read :
 - If category names are long
 - Fit to the way we process info, from left to right
-![Screenshot 20220602 081551.jpg](img/Screenshot_20220602_081551.jpg)
 - Area
 Avoid in general area graph, a humans, don't evaluate well areas but could useful when need to compare values of different magnitudes…
 ![Screenshot 20220613 075350.jpg](img/Screenshot_20220613_075350.jpg)
@@ -188,6 +187,7 @@ Example : use line chart to see trend over time
 
 ## clear visual hierarchy of info
 Pull some items to the forefront to indicate order they should process the information.  
+![](img/hierarchy_info.png)
 
 ## accessibility
 Design should be accessible by people with different abilities or technical skills  
@@ -214,15 +214,15 @@ People wouldn't accept easily your new design because they used to see the old d
 - provide multiple options and seek input
 - ask feedback on on one by your more vocal member
 
-# Chapter 6 : model visuals
-![model 1](img/model1.jpg)  
-![model 2](img/model2.jpg)  
+# chapter 6 : model visuals
+
+![model 1](img/model1.jpg)
+![model 2](img/model2.jpg)
 
 # chapter 7
 
-A good story grab your attention and is easy to remember 
+A good story grab your attention and is easy to remember
 
-Every good story has : setup, conflict and resolution : 3 act structure 
+Every good story has : setup, conflict and resolution : 3 act structure
 
-Facts persuade people by their head. 
-
+Facts persuade people by their head.
