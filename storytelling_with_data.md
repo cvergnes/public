@@ -224,4 +224,5 @@ A good story grab your attention and is easy to remember
 
 Every good story has : setup, conflict and resolution : 3 act structure 
 
+Facts persuade people by their head. 
 
