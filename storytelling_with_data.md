@@ -222,6 +222,6 @@ People wouldn't accept easily your new design because they used to see the old d
 
 A good story grab your attention and is easy to remember 
 
-Every good story has : setup, conflict and resolution
+Every good story has : setup, conflict and resolution : 3 act structure 
 
 
