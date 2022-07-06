@@ -8,7 +8,7 @@ Liens : [https://www.storytellingwithdata.com/books](https://www.storytellingwit
 # Chapter 1 : the importance of context
 
 ## Exploratory vs explanatory testing
-**Exploratory** phase : figure out what is interesting in datas - like hunting pers in oysters  
+**Exploratory** phase : figure out what is interesting in datas - like hunting perls in oysters  
 **Explanatory** space : communication of the analysis  
 Exploratory space shouldn’t be shown. This book focus only on **explanatory**  
 
