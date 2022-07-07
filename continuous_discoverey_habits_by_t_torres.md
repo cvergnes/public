@@ -16,15 +16,14 @@ For many years, product discovery happened once a year in an annual budgeting pr
 #### Product trio
             
 In 2001, Agile manifesto :
+- shorter cycles with more frequent customer feedbacks
+- working at a continuous pace
+- more flexibility to adapt to customer feedback
+- simplicity
         
-        - shorter cycles with more frequent customer feedbacks
-        - working at a continuous pace
-        - more flexibility to adapt to customer feedback
-        - simplicity
+ But discovery remains on the hand of leaders
         
-        But discovery remains on the hand of leaders
-        
-        Solution : product trio - product manager, designers and software engineers
+ Solution : product trio - product manager, designers and software engineers
         
 - Mindsets ?
         - Outcome oriented : success should be defined by value added not features delivered
