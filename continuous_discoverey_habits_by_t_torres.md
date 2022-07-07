@@ -5,46 +5,49 @@
 
 
 ### Chapter 1 : The what and why of product discovery
-        - Difference product discovery & delivery
+
+
+#### Difference product discovery & delivery
             
-            Product discovery : decide what to build
+        Product discovery : decide what to build
+        
+        Delivery : work to build and ship a product
+        
+        Most companies under invest in product discovery 
+        
+        For many years, product discovery happened once a year in an annual budgeting process. Teams learned after delivery that users weren’t excited about the product they built. Marty Cagan called them : “Delivery teams”. This process produce a lot of waste. 
+        
+#### Product trio
             
-            Delivery : work to build and ship a product
-            
-            Most companies under invest in product discovery 
-            
-            For many years, product discovery happened once a year in an annual budgeting process. Teams learned after delivery that users weren’t excited about the product they built. Marty Cagan called them : “Delivery teams”. This process produce a lot of waste. 
-            
-        - Product trio
-            
-            In 2001, Agile manifesto :
-            
-            - shorter cycles with more frequent customer feedbacks
-            - working at a continuous pace
-            - more flexibility to adapt to customer feedback
-            - simplicity
-            
-            But discovery remains on the hand of leaders
-            
-            Solution : product trio - product manager, designers and software engineers
-            
-        - Mindsets ?
-            - Outcome oriented : success should be defined by value added not features delivered
-            - Customer centric : add biz value
-            - Collaborative : cross functional nature of product. Rather than product manager decides, designer designs and Dev codes, decisions are made by the team
-            - Visual : do drawings and maps
-            - Experimental : identify assumptions and gather evidences
-            - Continuous : discovery is a continuous process
-            
-            Definition of product discovery: 
-            
-            > At a minimum, weekly touchpoints with customers by the team building the product where they conduct small research activities in pursuit of a desired outcome
-            > 
-            
-            Product teams make decisions every day. Our goal with continuous discovery is to infuse those daily decisions with as much customer input as possible
-            
-    - Chapter 2 : a common framework for continuous discovery
-        - Not focusing on outcome (delivery) but in ...
+        In 2001, Agile manifesto :
+        
+        - shorter cycles with more frequent customer feedbacks
+        - working at a continuous pace
+        - more flexibility to adapt to customer feedback
+        - simplicity
+        
+        But discovery remains on the hand of leaders
+        
+        Solution : product trio - product manager, designers and software engineers
+        
+- Mindsets ?
+        - Outcome oriented : success should be defined by value added not features delivered
+        - Customer centric : add biz value
+        - Collaborative : cross functional nature of product. Rather than product manager decides, designer designs and Dev codes, decisions are made by the team
+        - Visual : do drawings and maps
+        - Experimental : identify assumptions and gather evidences
+        - Continuous : discovery is a continuous process
+        
+        Definition of product discovery: 
+        
+        > At a minimum, weekly touchpoints with customers by the team building the product where they conduct small research activities in pursuit of a desired outcome
+        > 
+        
+Product teams make decisions every day. Our goal with continuous discovery is to infuse those daily decisions with as much customer input as possible
+        
+## Chapter 2 : a common framework for continuous discovery
+
+- Not focusing on outcome (delivery) but in ...
             
             At many companies, tension between biz needs and customer needs. 
             
@@ -73,8 +76,10 @@
                 - If we aren’t considering enough solutions for our target opportunity, we can hold an ideation session
                 - If we don’t have enough assumption tests in flight, we can ramp up our testing
             - OST unlock simpler stakeholder management : many teams share too much info (interview recordings, notes, ...) or too little
-- Part 2 - Continuous discovery habits
-    - Chapter 3 : Focusing on outcomes
+
+# Part 2 - Continuous discovery habits
+
+## Chapter 3 : Focusing on outcomes
         - Biz metrics et ...
             
             PM souhaite améliorer rétention des utilisateurs à 90 jours. Mais il est difficile de constater une évolution rapidement. Et la rétention à 30 ou 5 jours est une KPI avec moins de valeur. Grâce aux interviews ils ont constaté que les clients n’étaient pas convaincu d’avoir de la nourriture pour chien personnalisé et certains chiens n’aimaient pas la nourriture : ce sont 2 meilleures metrics. Trouver une bonne metrics est un challenge. Il faut distinguer biz metrics comme le lagging indicator “retention à 90 jours” et les product metrics (sur lesquelles l’équipe a une influence). 
@@ -98,7 +103,8 @@
             - Choosing an output as outcome. Example “launch an Android app” instead of “increase mobile engagement”
             - Focus on one outcome
     - Discovering opportunities
-        - Chapter 4 : visualizing what you know
+
+## Chapter 4 : visualizing what you know
             - Quel process suivre afin de connaitre notre point de départ ?
                 
                 Use case où un product trio essaie de rassembler chacun de son côté les éléments qu’il connait à propos d’un pb produit. Exemple : users ne vont pas au bout d’un process d’enregistrement. 
@@ -122,7 +128,7 @@
                 - utilisez des mots au lieu de dessins
                 - avancer comme si cette carte était la vérité. En réalité, il faut tester cette carte lors d’interview user
                 - Oubliez que la carte doit être affinée de manière continue
-        - Chapter 5 : continuous interviewing
+## Chapter 5 : continuous interviewing
             - Do we have to ask sth to our users ?
                 
                 > “Some people say, “Give the customers what they want.” But that’s not my approach. Our job is to figure out what they’re going to want before they do. I think Henry Ford once said, “If I’d asked customers what they wanted, they would have told me, ‘A faster horse!’” People don’t know what they want until you show it to them. That’s why I never rely on market research. Our task is to read things that are not yet on the page.
@@ -212,7 +218,8 @@
                 - Interviewer seulement quand vous en avez besoin : il faut interviewer en permanence
                 - Partager les recordings ou les notes ⇒ partager seulement vos conclusions
                 - Arrêter de synthétiser. C’est une habitude continue. Il faut synthétiser à chaque fois
-        - Chapter 6 : mapping the opportunity space
+
+## Chapter 6 : mapping the opportunity space
             
             As you collect customers’ stories, you are going to hear about countless needs, pain points, and desires. Our customers’ stories are rife with gaps between what they expect and how the world works. **Each gap represents an opportunity** to serve your customer. However, it’s easy to get overwhelmed and not know where to start. Even if you worked tirelessly in addressing opportunity after opportunity for the rest of your career, you would never fully satisfy your customers’ desires. This is why digital products are never complete. How do we decide which opportunities are more important than others? But our job is not to address every customer opportunity. Our job is to address customer opportunities that drive our desired outcome. This is how we create value for our business while creating value for our customer. **Our goal should be to address the customer opportunities that will have the biggest impact on our outcome first**.
             
@@ -256,7 +263,8 @@
                 - Opportunités pas assez spécifiques
                 - Opportunités sont des solutions déguisées : easiest way to distinguish between an opportunity and a solution is to ask, “Is there more than one way to address this opportunity?
                 - Capture feelings as opportunities : look for the cause of the feeling as an opportunity
-        - Chapter 7 : prioritize opportunities not solutions
+
+## Chapter 7 : prioritize opportunities not solutions
             
             Our customers don’t care about the majority of our feature releases. Our customers care about solving their needs, pain points, and desires. Product strategy happens in the opportunity space.
             
@@ -287,7 +295,8 @@
                 - focus sur 1 seul des facteurs
                 - partir en arrière à partir de vos conclusions
     - Discovering solutions
-        - Chapter 8 : idéation suralimentée
+ 
+## Chapter 8 : idéation suralimentée
             
             Identification d’un pain point, besoin ou désir déjà fait. 
             
@@ -312,7 +321,8 @@
             - Avoir des variations de la même idée : si pas assez idée, regarder ce qui est fait par d’autres produits d’industries différentes. Qui a déjà résolu ce problème ?
             - Limiter l’ideation à 1 session. Recherches ont montré qu’il faut du temps pour trouver des idées
             - Sélectionner des idées qui ne résolvent pas le pb. Brainstorming peut générer de bonnes idées mais qui résolvent un autre PB. Il faut les écarter.
-        - Chapter 9 : identifier des hypothèses cachées
+ 
+## Chapter 9 : identifier des hypothèses cachées
             - Anecdote programme HLM
                 
                 Anecdote HLM construits à Portland pour famille défavorisés avec 1 ou 2 chambres (pour avoir plus de logements et donc plus de familles beneficiaires) alors que ce sont de grandes familles. Souvent 2 biais cognitifs : biais de confirmation (nous sommes attentifs qu’aux faits qui confirment notre opinion) et l’escalade d’engagement : plus nous investissons dans cette idée plus nous nous sentons engagé dans cette idée. Product teams sont particulièrement sensibles à ces 2 biais : ils ont souvent besoin de défendre leurs idées face aux stakeholders. Ils cherchent tellement a convaincre qu’ils oublient que leurs idées peuvent ne pas marcher. 
@@ -351,7 +361,7 @@
             - Comment classer les suppositions ?
                 
                 
-        - Chapter 10 : tester des suppositions pas des idées
+## Chapter 10 : tester des suppositions pas des idées
             
             Pas de test d’idée : uniquement des tests d’hypothèses
             
@@ -401,7 +411,9 @@
             - common anti patterns
                 - overly complex simulations - keep tests simple
                 - test with not the best case - test with best audience should be done first
-        - Chapter 11 : measuring impact
+
+
+## Chapter 11 : measuring impact
             
             Anecdote expérience “aftercollege” ou plutôt que de demander à des étudiants le job qu’il cherche mais plutôt le job qu’il pourrait avoir en fonction de son diplôme. Pour tester l’hypothèse, ils ont routé une partie des étudiants sur la nouvelle page de search. Résultats : bcp moins d’abandon. Puis, ils ont attendu pour observer si les étudiants obtenaient bien un travail (biz outcome).
             
@@ -435,7 +447,8 @@
                 - mesurer tout. Au contraire, il faut mesurer pour évaluer les hypothèses et ensuite mesurer l’impact du produit sur l’outcome produit et sur l’outcome biz
                 - se concentrer uniquement sur les validation d’hypothèse et ne pas penser aux biz outcome (la viabilité de notre entreprise en dépend)
                 - oublier de tester la connection entre product outcome et biz outcome
-        - Chapter 12 : manager les cycles
+ 
+## Chapter 12 : manager les cycles
             
             SimpleBusiness (startup spécialisé dans les small biz) : pain points principal des clients = paiements en retard. Multiples tests d’hypothèses ont montré que les users ne voulaient que quelqu’un intervienne entre leurs clients et eux.  
             
@@ -483,8 +496,9 @@
                     
                     Even if you don’t like the idea (remember, our preferences don’t matter
                     
-- Part 3 - develop your continuous discovery habits
-    - Chapter 14 - start small and iterate
+# Part 3 - develop your continuous discovery habits
+
+## Chapter 14 - start small and iterate
         
         Anecdote sur première expérience pro : Actually, what that education gave me was the ability to bounce back. I knew that, while my boss (and the rest of the company) operated by throwing designs over the wall, it didn’t mean I had to. I got to choose how I did my own work, and I knew if I was going to be good at design, I needed to keep the client and the end-user close
         
@@ -514,6 +528,7 @@
                 - For each item, ask question : How could have we learned that sooner ?
                 - Faulty assumption we neglected to cover ?
                 - If issue on feasibility : requirements misunderstood ?
-    - Chapter 15 : what’s next ?
+
+## Chapter 15 : what’s next ?
         
-        Subscribe to product talks monthly newsletter
+Subscribe to product talks monthly newsletter
