@@ -15,7 +15,7 @@ For many years, product discovery happened once a year in an annual budgeting pr
         
 #### Product trio
             
-        In 2001, Agile manifesto :
+In 2001, Agile manifesto :
         
         - shorter cycles with more frequent customer feedbacks
         - working at a continuous pace
@@ -43,9 +43,9 @@ Product teams make decisions every day. Our goal with continuous discovery is to
         
 ## Chapter 2 : a common framework for continuous discovery
 
-- Not focusing on outcome (delivery) but in ...
+Not focusing on outcome (delivery) but in ...
             
-            At many companies, tension between biz needs and customer needs. 
+At many companies, tension between biz needs and customer needs. 
             
             Product trio should focus on creating **biz value and value for customers**
             
