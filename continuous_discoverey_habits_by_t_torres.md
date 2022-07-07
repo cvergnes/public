@@ -3,19 +3,15 @@
     
 ## Part 1 - What is continuous discovery ?
 
-
 ### Chapter 1 : The what and why of product discovery
 
-
-#### Difference product discovery & delivery
+#### Difference product discovery and delivery
             
-        Product discovery : decide what to build
+Product discovery : decide what to build
+Delivery : work to build and ship a product        
+Most companies under invest in product discovery 
         
-        Delivery : work to build and ship a product
-        
-        Most companies under invest in product discovery 
-        
-        For many years, product discovery happened once a year in an annual budgeting process. Teams learned after delivery that users weren’t excited about the product they built. Marty Cagan called them : “Delivery teams”. This process produce a lot of waste. 
+For many years, product discovery happened once a year in an annual budgeting process. Teams learned after delivery that users weren’t excited about the product they built. Marty Cagan called them : “Delivery teams”. This process produce a lot of waste. 
         
 #### Product trio
             
