@@ -1,11 +1,10 @@
 # Continuous discovery habits by Teresa Torres
 
-- Process
     
-    ![Untitled](Untitled%2013.png)
-    
-- Part 1 - What is continuous discovery ?
-    - Chapter 1 : The what and why of product discovery
+## Part 1 - What is continuous discovery ?
+
+
+### Chapter 1 : The what and why of product discovery
         - Difference product discovery & delivery
             
             Product discovery : decide what to build
@@ -61,7 +60,6 @@
             
         - OST resolve ...
             
-            ![Untitled](Untitled%201.png)
             
             - OST r**esolve tension between biz need and customer needs** → select only opportunities related to outcome
             - OST help to build a **shared understanding** : usually we stop to the first solution or we engage in fruitless opinion battles (which encourage to claim decision authority). Team takes time to **visualise options**
@@ -175,7 +173,6 @@
                 
             - Synthesise as you go ****
                 
-                ![Untitled](Untitled.png)
                 
                 At the top of the snapshot, include a quote that represents a memorable moment from their story. An opportunity represents a need, a pain point, or a desire that was expressed during the interview. Be sure to represent opportunities as needs and not solutions. If the participant requests a specific feature or solution, ask about why they need that, and capture the opportunity (rather than the solution). A good way to do this is to ask, “If you had that feature, what would that do for you?” For example, if an interviewee says, “I wish I could just say the name of the movie I’m searching for,” that’s a feature request
                 
@@ -227,7 +224,6 @@
                 
                 Difficile de prioriser des opportunités de formes et de tailles différentes → f**orce de l’arbre** (parent-enfant et relation entre frère-soeur)
                 
-                ![Untitled](Untitled%2014.png)
                 
                 Trees, it helps us deconstruct large, intractable problems into a series of smaller, more solvable problems. 
                 
@@ -246,7 +242,6 @@
                 - Watching something
                 - The end of the watching experience
                 
-                ![Untitled](Untitled%2015.png)
                 
                 - Inventaire de l’espace d’opportunité
                     - Is this opportunity framed as a customer need, pain point, or desire and not a solution?
@@ -355,7 +350,6 @@
                 
             - Comment classer les suppositions ?
                 
-                ![Untitled](Untitled%2016.png)
                 
         - Chapter 10 : tester des suppositions pas des idées
             
