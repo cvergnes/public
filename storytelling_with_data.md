@@ -225,4 +225,6 @@ A good story grab your attention and is easy to remember
 
 Every good story has : setup, conflict and resolution : 3 act structure
 
-Facts persuade people by their head.
+Facts persuade people by their head.  
+
+Tactics to make sure your story is clear : horizontal logic (just read titles, mix action titles with descriptive titles), vertical logic (all information on a given slide are self enforcing)
