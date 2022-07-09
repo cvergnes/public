@@ -233,3 +233,6 @@ Tactics to make sure your story is clear : horizontal logic (just read titles, m
 
 ## color background considerations
 Prefer light background (white). Dark background distract from datas
+
+## avoid spaghetti graph
+A spaghetti graph is a line graph wher lines overlap a lot
