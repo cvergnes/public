@@ -4,6 +4,8 @@
 | ------ | ------ |
 | x | delete a character |
 | h, j, k, l | to go left, down, up, right in normal mode |
+| Ctrl-d | go down half a page |
+| Ctrl-u | go up half a page |
 | diw | delete a word |
 | d$ | delete until end of line |
 | dd | delete a line |
