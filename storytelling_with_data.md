@@ -56,7 +56,7 @@ Well designed graphs get the info across more quickly than a well-designed table
 
 ### Points
 Scatterplots useful for showing relationship between 2 things. Most used in scientific area. 
-![Scatter plot](img/scatter_plot.png)
+![Scatter plot](img/scatter_plot.jpg)
 
 ### Lines
 
