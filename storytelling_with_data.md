@@ -232,4 +232,4 @@ Tactics to make sure your story is clear : horizontal logic (just read titles, m
 # chapter 9 : case studies
 
 ## color background considerations
-
+Prefer light background (white). Dark background distract from datas
