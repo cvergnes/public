@@ -230,3 +230,6 @@ Facts persuade people by their head.
 Tactics to make sure your story is clear : horizontal logic (just read titles, mix action titles with descriptive titles), vertical logic (all information on a given slide are self enforcing)
 
 # chapter 9 : case studies
+
+## color background considerations
+
