@@ -242,4 +242,5 @@ A spaghetti graph is a line graph wher lines overlap a lot.
 ![emphase one line](img/emphase_one_line.jpg)
 
 #### separate spatially
-![](img/separate_spatially.jpg)
+When the trend is more important than comparison
+![separate vertically](img/separate_spatially.jpg)
