@@ -251,3 +251,7 @@ If comparing is important
 Combined approach
 Information is very dense so not suited for live presentation 
 ![combined approach](img/combined_approach.jpg)
+
+Alternatives to pie
+- show the numbers
+![show numbers](img/show_the_numbers.jpg)
