@@ -235,4 +235,9 @@ Tactics to make sure your story is clear : horizontal logic (just read titles, m
 Prefer light background (white). Dark background distract from datas
 
 ## avoid spaghetti graph
-A spaghetti graph is a line graph wher lines overlap a lot
+A spaghetti graph is a line graph wher lines overlap a lot.  
+### Strategies with spaghetti graph :
+
+#### emphase one line
+![emphase one line](img/emphase_one_line.jpg)
+
