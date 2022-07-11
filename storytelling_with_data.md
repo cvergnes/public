@@ -255,3 +255,5 @@ Information is very dense so not suited for live presentation
 Alternatives to pie
 - show the numbers
 ![show numbers](img/show_the_numbers.jpg)
+- bar chart
+![bar](img/bar_before_after.jpg)
