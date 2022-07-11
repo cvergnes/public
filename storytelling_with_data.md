@@ -246,4 +246,4 @@ When the trend is more important than comparison
 ![separate vertically](img/separate_spatially.jpg)
 
 If comparing is important 
-![separating horizontally](img/separating_horizontally.jpg)
+![separating horizontally](img/separate_horizontally.jpg)
