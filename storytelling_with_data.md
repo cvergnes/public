@@ -257,3 +257,5 @@ Alternatives to pie
 ![show numbers](img/show_the_numbers.jpg)
 - bar chart
 ![bar](img/bar_before_after.jpg)
+- pie to slope graph
+![slope](img/pie_to_slopegraph.jpg)
