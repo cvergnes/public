@@ -249,4 +249,5 @@ If comparing is important
 ![separating horizontally](img/separate_horizontally.jpg)
 
 Combined approach
+Information is very dense so not suited for live presentation 
 ![combined approach](img/combined_approach.jpg)
