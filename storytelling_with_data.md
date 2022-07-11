@@ -247,3 +247,6 @@ When the trend is more important than comparison
 
 If comparing is important 
 ![separating horizontally](img/separate_horizontally.jpg)
+
+Combined approach
+![combined approach](img/combined_approach.jpg)
