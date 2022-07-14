@@ -43,6 +43,8 @@
 | b | jump forward to the next word |
 | Ctrl-d | jump forward to the next word |
 | Ctrl-u | jump forward to the next word |
+| * | Go to the next occurrence of the current word under the cursor |
+| # | Go to the previous occurrence of the current word under the cursor |
   
 # basic .vimrc file
 ```
