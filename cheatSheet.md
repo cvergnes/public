@@ -37,12 +37,14 @@
 | "ap | paste register a |
 | Ctrl-r a | paste register a |
 | :register | list of registers |
-| ) | go to end of sentence |
-| ) | go to beginning of sentence |
+| { | jump to next paragraph (or function/block, when editing code) |
+| } | ump to previous paragraph (or function/block, when editing code) |
 | w | jump forward to the next word |
-| b | jump forward to the next word |
+| b | jump backwards to the next word |
 | Ctrl-d | jump forward to the next word |
 | Ctrl-u | jump forward to the next word |
+| * | Go to the next occurrence of the current word under the cursor |
+| # | Go to the previous occurrence of the current word under the cursor |
   
 # basic .vimrc file
 ```
