@@ -45,5 +45,13 @@ for value in range(1,5): # print values from 1 to 4
 lst = list(range(1 ,11, 2))
 
 # list comprehension
+lst2 = [value**2 for value in range(1, 11) ]
+
+## slicing a list
+print(bicycles[0:2])
+print(bicycles[:2]) # if you omit indice, it will be understood as start/end of list
+print(bicycles[-3:]) # it works also with negative index
+
+
 
 
