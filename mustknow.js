@@ -1,5 +1,5 @@
 // We can use a <script> tag to add JavaScript code to a page.
-// ole.log(he type and language attributes are not required.
+// the type and language attributes are not required.
 // A script in an external file can be inserted with <script src="path/to/script.js"></script>
 
 // ECMAScript 5 (ES5) appeared. It added new features to the language and modified some of the existing ones. To keep the old code working, most such modifications are off by default. You need to explicitly enable them with a special directive: "use strict"
@@ -17,7 +17,7 @@ let str2 = 'Single quotes are ok too';
 let phrase = `backtick can embed another ${str}`;
 let multipleLines = `fdfdfd
 fffdfd
-fffddf`;
+fffddf`; // with backtick
 
 let nameFieldChecked = true; // true or false
 let age = null;
@@ -45,19 +45,17 @@ console.log( nullCoalesce ?? "null coalescing");
 
 // || returns the first truthy value.
 // ?? returns the first defined value.
-
 for (let i = 0; i < 3; i++) {
   console.log(i); // 0, 1, 2
 }
 
-let switcha = 2 + 2;
-
+let switcha = 2 + 2; // switch case
 switch (switcha) {
  case 4:
     console.log( 'Exactly!' );
     break;
  default:
-    alert( "I don't know such values" );
+    console.log( "I don't know such values" );
 }
 
 // default params
@@ -194,11 +192,6 @@ console.log( idSymbol === idAgain ); // true
 
 // conversion
 console.log(user ? "Objects are all true in boolean context" : "objects arens't true in boolean context");
-// only known operation between object : difference between 2 dates but at first dates are converted to number
-let now = new Date();
-let tomorrow = new Date();
-tomorrow.setTime(now.getTime()+24*60*60*1000);
-console.log("diff between tomorrow and now : "+ String(tomorrow-now));
 
 //To do the conversion, JavaScript tries to find and call three object methods:
 // Call obj[Symbol.toPrimitive](hint) – the method with the symbolic key Symbol.toPrimitive (system symbol), if such method exists,
@@ -429,22 +422,101 @@ function showMenu(  {title = "Untitled", width = 200, height = 100, items = []} 
 }
 
 // Date and time
+
+// only known operation between object : difference between 2 dates but at first dates are converted to number
 let now = new Date();
+let tomorrow = new Date();
+tomorrow.setTime(now.getTime()+24*60*60*1000);
+console.log("diff between tomorrow and now : "+ String(tomorrow-now));
+
 let Jan01_1970 = new Date(0); // milliseconds since jan 1 197
 new Date(2011, 0, 1, 0, 0, 0, 0); // 1 Jan 2011, 00:00:00
 now.getDay(); // get day of week from sunday 0 to Saturday 6
 console.log(now.getDate()); // return day of month
 
-today.setHours(0); // hour changed to 0
-
 // date auto correction
-let date = new Date(2013, 0, 32); // 32 Jan 2013 ?!?
-console.log(date); // ...is 1st Feb 2013!
+let strangeDate = new Date(2013, 0, 32); // 32 Jan 2013 ?!?
+console.log(strangeDate); // ...is 1st Feb 2013!
 
 // We can also set zero or even negative values
 let date = new Date(2016, 0, 2); // 2 Jan 2016
 date.setDate(1); // set day 1 of month
 date.setDate(0); // min day is 1, so the last day of the previous month is assumed
 console.log( date ); // 31 Dec 2015
+
+// diff between 2 dates is given in ms
+let start = Date.now(); // milliseconds count from 1 Jan 1970
+for (let i = 0; i < 100000; i++) {  // do a long job
+  let doSomething = i * i * i;
+}
+let end = Date.now(); // done
+console.log( `The loop took ${end - start} ms` ); // subtract numbers, not date
+
+
+let ms = new Date(Date.parse('2012-01-26T13:51:50.417-07:00')); // string format should be: YYYY-MM-DDTHH:mm:ss.sssZ
+// Shorter variants are also possible, like YYYY-MM-DD or YYYY-MM or even YYYY
+
+
+// JSON methods
+let student = {
+  name: 'John',
+  age: 30,
+  isAdmin: false,
+  courses: ['html', 'css', 'js'],
+  spouse: null,
+  date : new Date()
+};
+let json = JSON.stringify(student);
+console.log(json); // The resulting json string is called a JSON-encoded or serialized or stringified or marshalled object
+// some objects are skipped : Function properties (methods), Symbolic keys and values, Properties that store undefined
+console.log( JSON.stringify(student, ['name', 'age'])); // limit serialization to 2 properties
+
+
+// parse JSON
+let userData = '{ "name": "John", "age": 35, "isAdmin": false, "friends": [0,1,2,3] }';
+console.log( JSON.parse(userData));
+
+// Serialize a date with a reviver function
+let strJson = '{"title":"Conference","date":"2017-11-30T12:00:00.000Z"}';
+let meetup = JSON.parse(strJson, function(key, value) {
+  if (key == 'date') return new Date(value);
+  return value;
+});
+console.log( meetup.date.getDate() ); // now works !
+
+// Rest parameters, variable list of arguments
+function sumAll(...args) { // args is the name for the array
+  let sum = 0;
+  for (let arg of args) sum += arg;
+  return sum;
+}
+console.log( sumAll(1, 2, 3) ); // 6
+
+// spread syntax, it expands an iterable object into a list of arguments
+let arr = [3, 5, 1];
+console.log( Math.max(...arr) );
+
+let arr1 = [1, -2, 3, 4];
+let arr2 = [8, 3, -8, 1];
+console.log( Math.max(1, ...arr1, 2, ...arr2, 25) ); // 25
+
+console.log( [...strHello] ); // H,e,l,l,o
+
+// The spread syntax internally uses iterators to gather elements, the same way as for..of does
+// There’s a subtle difference between Array.from(obj) and [...obj]:
+// Array.from operates on both array-likes and iterables.
+// The spread syntax works only with iterables.
+// So, for the task of turning something into an array, Array.from tends to be more universal.
+console.log( Array.from(strHello));
+
+// copy array or copy object
+let arrCopy = [...arr]; // spread the array into a list of parameters
+                        // then put the result into a new array
+let objCopy = { ...obj }; // spread the object into a list of parameters
+                          // then return the result in a new object
+
+// variable, scope, closure
+
+
 
 
