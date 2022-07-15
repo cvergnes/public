@@ -174,8 +174,9 @@ myDog.sit()
 # lambda define anonymous function with syntax : lambda x, y : result
 my_pets = ['alfred', 'tabitha', 'william', 'arla']
 uppered_pets = list(map(lambda s : s.upper(), my_pets))
-
 print(uppered_pets)
+
+print(list(filter(lambda x : x[0] == "a", my_pets)))
 
 # generators
 import random
