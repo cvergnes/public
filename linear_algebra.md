@@ -46,7 +46,7 @@ A set of the form p +t1v1 + ..+ tjvk is a k dimensional linear surface (or k-fla
 ![length of a vector](img/length_of_vector.png)
 
 ##### dot products of a vector
-![product vector](img/dotproduct_of_vector.png)  
+![product vector](img/dotproducts_of_vector.png)  
 dot products of a vector is a scalar, not a vector.  
 
 **Theorem** : triangle inequality  
@@ -88,7 +88,7 @@ To decide if two matrixes are equivalent, you could reduce to reduced echelon fo
 
 ### Vector space definition
 
-![vector space](img/vector_space.png)
+![vector space](img/Vector_space.png)
 
 Example : vectors dim 2 with slope 2 is a vector space.
 
