@@ -68,6 +68,6 @@ print(advanced < 50) # array of booleans
 print(advanced[advanced > 50]) # vectors of only values > 50
 index = np.array([1,2,3,4,5,6,7,8,9])
 print(index[ [1,2,5]]) # index through a list
-print(np.any(advanced > 50, axis = 0))
+print(np.any(advanced > 50, axis = 0)) # columns has a value > 50
 
 
