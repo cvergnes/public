@@ -89,8 +89,16 @@ To decide if two matrixes are equivalent, you could reduce to reduced echelon fo
 ### Vector space definition
 
 ![vector space](img/Vector_space.png)
+Example : vectors dim 2 with slope 2 is a vector space.  
 
-Example : vectors dim 2 with slope 2 is a vector space.
+**Definition** : A one-element vector space is a trivial space.
+
+Lemma : In any vector space V, for an v in V and r in R, we have 0 * v = 0, (2) (−1 ·v) + v = 0, and (3) r · 0 = 0.  
+
+**Definition** For any vector space, a **subspace** is a subset that is itself a vector space, under the inherited operations.
+
+![span](img/span_vectorspace.png)
+
 
 
 
