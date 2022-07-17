@@ -298,6 +298,37 @@ Craig : user researcher.
 
 
 ## identify bias in ux research
-**Def** : bias avoring or having prejudice against something based on limited information  
+**Def** : bias favoring or having prejudice against something based on limited information  
+Choose your words carefully. While conducting research, it’s important to use words that don’t lead the user in one direction or another   
+This is especially critical in usability studies. For example, imagine a participant is testing your designs. You ask the participant: “Do you like or dislike the improved layout of these buttons?” Because you used the word “improved,” the user will most likely reply positively. But, this isn’t very useful feedback because you framed the question in a way that led the participant to respond accordingly. To improve your product, you need honest feedback.  
+Instead, a better way to frame the same question is: “Explain how you feel about the layout of the buttons.” This phrasing allows the user to come to their own conclusions without any outside influence, which will give you better data about their thought process and experience.   
+To combat the bandwagon effect, ask participants to write down or record their thoughts before discussing as a group.  
+Limit the guidancee you give to users.
 
+### confirmation bias
+- ask open questions
+- active listening
+- include a large sample of users  
+Confirmation bias is particularly prevalent in online surveys. For example, imagine that you’re conducting an online survey with a large group of participants. you provide four options with specifically worded language that the participant has to choose from. If none of the options you’ve provided apply to the user, they can’t select “other".
+
+### false consensus bias
+- identify and articulate your assumptions
+- survey large group of peoples
+
+### recency bias & primacy
+most focus on more recent topic or more recent user
+- take detailed notes
+remember only first user
+
+### implicit bias
+sterotypes
+- reflect on our behaviors
+- ask other
+
+### sunk cost fallacy
+the deeper we get into a project we've invested in, the harder it is to change course without feeling like we've failed or wasted time
+
+[bias in user research](https://npr.design/overcoming-cognitive-bias-in-user-research-e4082f4506a)
+
+One tool that can help you identify and explore your own implicit biases is the Implicit Association Test (IAT)
 
