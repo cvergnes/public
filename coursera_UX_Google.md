@@ -332,3 +332,13 @@ the deeper we get into a project we've invested in, the harder it is to change c
 
 One tool that can help you identify and explore your own implicit biases is the Implicit Association Test (IAT)
 
+
+
+# Course 2 - Start the UX Design Process: Empathize, Define, and Ideate
+
+## Week 1
+
+
+### Portfolio project 1
+
+

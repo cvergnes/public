@@ -254,7 +254,6 @@ console.log("slice with negative values " + stringify.slice(-2));
 console.log("tr.codePointAt(pos) Returns the code for the character at position pos : " + stringify.codePointAt(0));
 console.log("tr.fromCodePoint(code) creates a character : " + String.fromCodePoint(65));
 
-
 // Arrays
 let fruits = ["Apple", "Orange", "Plum"];
 console.log("The total count of the elements in the array is its length : " + fruits.length);
@@ -289,7 +288,6 @@ arrMap.reverse();
 arrMap.sort(); // The items are sorted as strings by default.
 console.log("arr sorted : " + arrMap);
 
-
 // The str.split(delim) method splits the string into an array by the given delimiter delim.
 
 // The call arr.join(glue) does the reverse to split. It creates a string of arr items joined by glue between them.
@@ -299,7 +297,6 @@ console.log( strT ); // Bilbo;Gandalf;Nazgul
 
 // reduce used to calculate a single value based on the array
 console.log("reduce :" + arrMap.reduce((sum, current)=> current + sum));
-
 
 // Symbol.iterator 
 let range = {
@@ -319,13 +316,11 @@ let range = {
     }
   }
 };
-
 for (let num of range) {
   console.log(num); // 1, then 2, 3, 4, 5
 }
 
 // Arrays and strings are most widely used built-in iterables.
-
 let arrayLike = { // has indexes and length => array-like
   0: "Hello",
   1: "World",
@@ -348,10 +343,8 @@ let visitsCountMap = new Map();
 // john is the key for the map
 visitsCountMap.set(john, 123);
 
-
 // A Set is a special type collection – “set of values” (without keys), where each value may occur only once.
 let set = new Set();
-
 let pete = { name: "Pete" };
 let mary = { name: "Mary" };
 
@@ -368,7 +361,6 @@ console.log( set.size ); // 3
 for (let user of set) {
   console.log(user.name); // John (then Pete and Mary)
 }
-
 console.log( visitsCountMap.get(john) ); // 123
 
 // Destructuring assignment is a special syntax that allows us to “unpack” arrays or objects into a bunch of variables, as sometimes that’s more convenient.
@@ -393,7 +385,6 @@ let options = {
   width: 100,
   height: 200
 };
-
 let {title : t, width : w, height : h} = options;
 console.log(t + " " + w + " " + h);
 
@@ -409,7 +400,6 @@ console.log(frontend, backend);
 
 const { frontend: courseOne, backend: courseTwo } = freeCodeCamp;
 console.log(courseOne, courseTwo);
-
 
 // we pass object to function
 
@@ -429,7 +419,7 @@ let tomorrow = new Date();
 tomorrow.setTime(now.getTime()+24*60*60*1000);
 console.log("diff between tomorrow and now : "+ String(tomorrow-now));
 
-let Jan01_1970 = new Date(0); // milliseconds since jan 1 197
+let Jan01_1970 = new Date(0); // milliseconds since jan 1 1970
 new Date(2011, 0, 1, 0, 0, 0, 0); // 1 Jan 2011, 00:00:00
 now.getDay(); // get day of week from sunday 0 to Saturday 6
 console.log(now.getDate()); // return day of month
@@ -452,10 +442,8 @@ for (let i = 0; i < 100000; i++) {  // do a long job
 let end = Date.now(); // done
 console.log( `The loop took ${end - start} ms` ); // subtract numbers, not date
 
-
 let ms = new Date(Date.parse('2012-01-26T13:51:50.417-07:00')); // string format should be: YYYY-MM-DDTHH:mm:ss.sssZ
 // Shorter variants are also possible, like YYYY-MM-DD or YYYY-MM or even YYYY
-
 
 // JSON methods
 let student = {
@@ -470,7 +458,6 @@ let json = JSON.stringify(student);
 console.log(json); // The resulting json string is called a JSON-encoded or serialized or stringified or marshalled object
 // some objects are skipped : Function properties (methods), Symbolic keys and values, Properties that store undefined
 console.log( JSON.stringify(student, ['name', 'age'])); // limit serialization to 2 properties
-
 
 // parse JSON
 let userData = '{ "name": "John", "age": 35, "isAdmin": false, "friends": [0,1,2,3] }';
@@ -499,7 +486,6 @@ console.log( Math.max(...arr) );
 let arr1 = [1, -2, 3, 4];
 let arr2 = [8, 3, -8, 1];
 console.log( Math.max(1, ...arr1, 2, ...arr2, 25) ); // 25
-
 console.log( [...strHello] ); // H,e,l,l,o
 
 // The spread syntax internally uses iterators to gather elements, the same way as for..of does
