@@ -9,4 +9,4 @@ Since student in old science (physics for example) may think best ideas were dis
 Four approach. 
 
 Acting as an human : Turing test (people can't tell it's an human or a computer who have responded to written questions). It requires NLP, reasoning, etc...)
-AI researchers have devoted little effort to this test. They think it's more fruitful to study underlying mechanism of intelligences. Like aeronautics engineer who studied aerodynamism than fool a pigeon with a fake pigeon.
+AI researchers have devoted little effort to this test. They think it's more fruitful to study underlying mechanism of intelligences. Like aeronautics engineer who preferred studied aerodynamism than fool a pigeon with a fake pigeon.
