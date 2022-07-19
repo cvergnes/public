@@ -22,6 +22,6 @@ Cognitive science is an interdisciplinary field which could help.
 Thinking rationally : 
 We should define the laws of thought. Easy for chess or arithmetic. Less easy for politics or warfare. In this case, theory of probability fill this gap. 
 But it doesn't give any clue about the behaviour to be done
-Logic requires knowledge of the world that is certain. 
+Logic requires knowledge of the world that is certain but us seldom achieved in reality 
 
 
