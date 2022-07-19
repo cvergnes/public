@@ -13,3 +13,6 @@ AI researchers have devoted little effort to this test. They think it's more fru
 
 Think humanly.   
 To say that a program think humanly, we have first to know how humans think. 
+- introspection—trying to catch our own thoughts as they go by;
+- psychological experiments—observing a person in action;
+- brain imaging—observing the brain in action.
