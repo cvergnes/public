@@ -16,7 +16,12 @@ To say that a program think humanly, we have first to know how humans think.
 - introspection—trying to catch our own thoughts as they go by;
 - psychological experiments—observing a person in action;
 - brain imaging—observing the brain in action.
-
 Example : General Problem Solver was thought to mimic human thought
-
 Cognitive science is an interdisciplinary field which could help. 
+
+Thinking rationally : 
+We should define the laws of thought. Easy for chess or arithmetic. Less easy for politics or warfare. In this case, theory of probability fill this gap. 
+But it doesn't give any clue about the behaviour to be done
+Logic requires knowledge of the world that is certain. 
+
+
