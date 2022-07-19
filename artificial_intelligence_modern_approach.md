@@ -19,3 +19,4 @@ To say that a program think humanly, we have first to know how humans think.
 
 Example : General Problem Solver was thought to mimic human thought
 
+Cognitive science is an interdisciplinary field which could help. 
