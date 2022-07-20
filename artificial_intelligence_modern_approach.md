@@ -28,3 +28,13 @@ Logic requires knowledge of the world that is certain but us seldom achieved in 
 
 #### Acting rationally: the rational agent approach
 An agent is something that acts. A rational agent is expected to have the best outcome. 
+This approach has several advantages : 
+- more general 
+- scientific development is easier : rationality is well defined mathematically and mimic human thought process perfectly is impossible
+
+For this reason, this approach has prevailed since of the history of this field
+So, this approach, agent which do the right thing bacame so pervasive that it's called **standard model**.   
+
+Limited rationality when there isn't enough time to compute the optimal solution 
+
+
