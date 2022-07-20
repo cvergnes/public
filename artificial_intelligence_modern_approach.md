@@ -39,4 +39,7 @@ Limited rationality when there isn't enough time to compute the optimal solution
 
 ### beneficial machines
 But in real life, objectives aren't always very clear. 
+Example : for self driving car is go to destination in total safety but also shouldn't shake it's passengers, not hurting any pedestrians or other objects,...
 
+
+Value alignment problem when objective put into the machine isn't the same than for humans
