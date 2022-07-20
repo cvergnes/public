@@ -37,4 +37,6 @@ So, this approach, agent which do the right thing bacame so pervasive that it's 
 
 Limited rationality when there isn't enough time to compute the optimal solution 
 
+### beneficial machines
+But in real life, objectives aren't always very clear. 
 
