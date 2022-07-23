@@ -16,11 +16,10 @@ Deep learning is usefulf for :
 - robotics; handling objects
 - Financial and logistical forecasting, text to speec, etc..
 
-
 #### History of neural networks
 In 1943 Warren McCulloch, a neurophysiologist, and Walter Pitts, a logician, teamed up to develop a mathematical model of an artificial neuron. McCulloch and Pitts realized that a simplified model of a real neuron could be represented using simple addition and thresholding  
 Rosenblatt further developed the artificial neuron to give it the ability to learn. Even more importantly, he worked on building the first device that actually used these principles, the Mark I Perceptron  
-An MIT professor named Marvin Minsky rote a book called Perceptrons (MIT Press), about Rosenblatt's invention. They showed that a single layer of these devices was unable to learn some simple but critical mathematical functions (such as XOR). In the same book, they also showed that using multiple layers of the devices would allow these limitations to be addressed. Unfortunately, only the first of these insights was widely recognized. As a result, the global academic community nearly entirely gave up on neural networks for the next two decades.  
+An MIT professor named Marvin Minsky wrote a book called Perceptrons (MIT Press), about Rosenblatt's invention. It showed that a single layer of these devices was unable to learn some simple but critical mathematical functions (such as XOR). In the same book, they also showed that using multiple layers of the devices would allow these limitations to be addressed. Unfortunately, only the first of these insights was widely recognized. As a result, the global academic community nearly entirely gave up on neural networks for the next two decades.  
 
 Perhaps the most pivotal work in neural networks in the last 50 years was the multi-volume Parallel Distributed Processing (PDP) by David Rumelhart, James McClellan, and the PDP Research Group, released in 1986  
 
@@ -44,7 +43,9 @@ A good fit for a model is when model has a low error rate on datas on which he w
 
 Convolutional neural network; a type of neural network that works particularly well for computer vision tasks
 
- Tabular: Data that is in the form of a table, such as from a spreadsheet, database, or CSV file. A tabular model is a model that tries to predict one column of a table based on information in other columns of the table.
+**Tabular** : Data that is in the form of a table, such as from a spreadsheet, database, or CSV file. A tabular model is a model that tries to predict one column of a table based on information in other columns of the table.  
+Usually, we dont use pre trained model for tabular data. Method fit_one_cycle replace fine_tune
+Collaborative filtering => use for recommendation  
 
 ```
 import graphviz
