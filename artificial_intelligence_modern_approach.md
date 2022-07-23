@@ -46,3 +46,4 @@ Value alignment problem when objective put into the machine isn't the same than 
 
 ### Artificial super intelligence
 ASI : intelligence that far surpass human intelligence. 
+King Midas problem : he asked for turning in gold all what it touches. But regret it after its food, family was turning in gold.
