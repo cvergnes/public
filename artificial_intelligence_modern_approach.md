@@ -43,3 +43,6 @@ Example : for self driving car is go to destination in total safety but also sho
 
 
 Value alignment problem when objective put into the machine isn't the same than for humans
+
+### Artificial super intelligence
+ASI : intelligence that far surpass human intelligence. 
